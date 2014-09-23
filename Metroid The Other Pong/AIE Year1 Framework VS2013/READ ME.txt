@@ -1,0 +1,12 @@
+- Press Space bar to start Game
+
+- move W and S to move left Metroid Logo
+
+- move O and L to move right Metroid logo
+
+- Hit Samus's Ball behind your opponent to Score.
+
+- First to get to 5 points determine whether player 1 (left paddle) wins or loses.
+
+- Press T to return to Main Menu
+
